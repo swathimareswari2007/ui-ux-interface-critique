@@ -1,0 +1,63 @@
+# Interface Critique & Research Question Canvas
+
+## Project Overview
+
+**Selected workflow:** College certificate submission
+
+**Target users:** College students submitting internship or course completion certificates.
+
+**Design goal:** Identify usability problems in the existing workflow before proposing interface improvements.
+
+## Problem Statement
+
+Students may have difficulty understanding certificate submission requirements, uploading the correct documents, confirming successful submission, and tracking application status. Research is needed to identify which steps create the greatest usability barriers.
+
+## Primary Research Question
+
+How do college students navigate the certificate submission process, and what usability barriers prevent them from submitting documents correctly and understanding their application status?
+
+## Assumptions to Validate
+
+1. Students may be uncertain about required documents and accepted file formats.
+2. Students may need clearer feedback after submitting their certificates.
+3. Students may find it difficult to understand application statuses and the next steps.
+
+## Research Method
+
+- Observe 3–5 students attempting the selected workflow.
+- Ask participants to describe what they expect at each step.
+- Record observed difficulties, questions, and errors with permission.
+- Compare observations against the five usability heuristics.
+
+## Heuristic Review
+
+- **Clarity:** Are instructions and labels understandable?
+- **Feedback:** Does the system confirm actions and display progress?
+- **Error prevention:** Does it prevent missing information and invalid uploads?
+- **Accessibility:** Are text, contrast, labels, and keyboard controls usable?
+- **Trust:** Are submission status, deadlines, and rejection reasons transparent?
+
+## Success Criteria
+
+- Students can identify the required documents.
+- Students can understand whether their submission was successful.
+- Students can find their application status and determine the next step.
+
+## Evidence Required
+
+- Five or more screenshots or states from the actual workflow.
+- Annotations identifying usability issues.
+- Research observations and supporting evidence.
+- A prioritized list of design opportunities.
+
+## Limitations
+
+The assumptions are hypotheses, not verified findings. The actual workflow must be inspected and the assumptions validated with users before finalizing design recommendations.
+
+## Deliverables
+
+- Figma critique board.
+- One-page research question canvas.
+- Annotated evidence across at least five screens or states.
+- Completed heuristic review.
+- Research evidence worksheet.
