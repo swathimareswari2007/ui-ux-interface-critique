@@ -1,0 +1,3 @@
+evidence_id,source,user_segment,observation,verbatim_quote,problem_signal,design_opportunity,confidence,privacy_note
+UX-001,Interview,College fresher,Replace with an observed behavior,Use only consented non-sensitive wording,What friction does this reveal?,What could the product improve?,Medium,Remove identifying information
+UX-002,Usability test,Career switcher,Replace with an observed behavior,Use only consented non-sensitive wording,What friction does this reveal?,What could the product improve?,Medium,Remove identifying information
